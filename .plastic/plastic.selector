@@ -1,4 +1,0 @@
-repository "SRP_Test2@chilyhub@cloud.cn"
-  path "/"
-    br "/main"
-    co "/main"
