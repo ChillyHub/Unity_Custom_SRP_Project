@@ -7,9 +7,9 @@
 
 ### Support
 
-- Model: **Instancing**, **LOD**
+- Model: **Instancing**, **SRP Batcher**, **LOD**
 - Shadow: **Directional light cascade shadow**, point and spot light shadow
 - GI: Lightmap, shadowmap, Light Probe, Reflective Probe
-- Material: SRP
+- Material: PBR
 - Post Processing: Bloom, Tone mapping, Color Grading, FXAA, Render Scale
 - Particles and Multiple Cameras
